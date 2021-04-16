@@ -15,6 +15,7 @@
     <artifactId>arts-product-mgmnt</artifactId>
     <name>arts-product-mgmnt</name>
     <version>1.0</version>
+    <packaging>jar</packaging>
 
     <dependencies>
 
